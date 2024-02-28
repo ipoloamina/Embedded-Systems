@@ -9,7 +9,7 @@ DigitalOut greenLED(PC_6,0);
 int main()
 {
     int grade, hits;
-
+    
     printf("\n\nPress Return to Start\n\n");
 
     do {
